@@ -18,8 +18,8 @@ Predict hospital readmissions within 30 days to improve healthcare decision-maki
 3. **Machine Learning**: Trained a Random Forest model to predict readmissions.  
 
 ## Results  
-- **Accuracy**: 85%  
-- **Precision**: 88%  
+- **Accuracy**:  
+- **Precision**:  
 - **Key Insight**: Patients with medication changes are X% more likely to be readmitted.
 
 ## Visualizations  
